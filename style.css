@@ -1,0 +1,34 @@
+body {
+    background-image: url("images/bw.png");
+    background-size: 105%;
+}
+
+#container {
+    width: 750px;
+    margin: auto;
+    background-image: url(images/wolf.png);
+    background-size: 105%;
+}
+
+header {
+    padding: 40px;
+    height: 40px;
+    color: slategray;
+}
+
+nav {
+    padding: 8px 40px;
+    color: slategray;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color: slategray;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    color: slategray;
+}
